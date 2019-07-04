@@ -1,0 +1,4 @@
+## ignore these files ##
+/_templates/
+conf.py
+/lecture/tmp.txt
