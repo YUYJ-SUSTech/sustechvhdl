@@ -4,7 +4,7 @@ Concurrent statement
 .. contents:: Table of Contents
 
 * The operation of digital system is inherently concurrent.
-* Within VHDL signals are assigned values using signal assignment statements.``sum <= (x xor y) after 5 ns``
+* Within VHDL signals are assigned values using signal assignment statements. ``sum <= (x xor y) after 5 ns``
 
 * Multiple signal assignment statements are executed concurrently in simulated time and are referred to as concurrent signal assignment statements (CSAs).
 * There are several forms of CSA statements:
