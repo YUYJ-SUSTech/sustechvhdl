@@ -4,7 +4,8 @@ Dr. Yu Yajun
 
 Associate Professor, Department of Electrical and Electronic Engineering
 
-SOUTHERN UNIVERSITY OF SCIENCE AND TECHNOLOGY
+Southern University of Science and Technology
+
 Office:  1005, Block A7, Nanshan iPark
 
 Phone: 8801 8557
