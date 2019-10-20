@@ -46,3 +46,6 @@ Reference Book
     lab/lab2
     lab/lab3
     lab/lab4
+    lab/lab5
+    lab/lab6
+    lab/lab7
