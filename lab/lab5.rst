@@ -15,7 +15,7 @@ Task 5: Design Multipliers (Week 7)
 
 .. image:: ../_static/t5_5.png
     :align: center
-    :width: 600
+    :width: 400
 
 Knowledge Points
 ----------------

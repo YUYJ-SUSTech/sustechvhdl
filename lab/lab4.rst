@@ -25,7 +25,7 @@ Sequential Recognizer
 ---------------------
 .. image:: ../_static/t4_2.png
     :align: center
-    :width: 600
+    :width: 400
 
 ASMC for the Fibonacci Function
 -------------------------------

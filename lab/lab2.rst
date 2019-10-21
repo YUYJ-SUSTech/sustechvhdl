@@ -28,7 +28,7 @@ Example: Signal assignment with process
 
 .. image:: ../_static/t2_2.png
     :align: center
-    :width: 600
+    :width: 400
 
 .. image:: ../_static/t2_3.png
     :align: center
