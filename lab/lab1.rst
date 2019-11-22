@@ -12,9 +12,9 @@ Task 1: Behavior Simulation of Full Adder (Week 2)
 Knowledge Points
 ----------------
 * Data Object
-	- Signal, p41-46 `Link text <http://example.com/>`_
-	- Constant, p49-50
-* Data Type
+	- Signal, `p41-46 <http://marvalfan.top/lecture/chapter2.html#signal-data-objects>`_
+	- Constant, `p49-50 <http://marvalfan.top/lecture/chapter2.html#constant-data-objects>`_
+* `Data Type <http://marvalfan.top/lecture/chapter2.html#data-types>`_
 	- bit, p51-53
 	- array, enumeration, p56-57
 	- std_logic, p58-60
