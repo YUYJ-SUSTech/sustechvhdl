@@ -18,15 +18,15 @@ Knowledge Points
 	- bit, p51-53
 	- array, enumeration, p56-57
 	- std_logic, p58-60
-* Operators, p61-65
+* Operators, `p61-65 <http://marvalfan.top/lecture/chapter2.html#operators>`_
 	- Logic Operators: and, or, nand, nor, xor, xnor, 
 	- Adding: +, -, & 
 * Concurrent Statements 
-	- simple concurrent signal assignment (CSA) statement, p71-74
+	- simple concurrent signal assignment (CSA) statement, `p71-74 <http://marvalfan.top/lecture/chapter3.html#simple-csa>`_
 * Delay Model
-	- Inertial delay model, p86-88
+	- Inertial delay model, `p86-88 <http://marvalfan.top/lecture/chapter3.html#understanding-delays>`_
 * Test Bench 
-	- Self study Chapter 5.3, p142-148
+	- Self study Chapter 5.3, `p142-148 <http://marvalfan.top/lecture/chapter5.html#modeling-a-test-bench>`_
 
 .. image:: ../_static/t1_2.png
     :align: center
