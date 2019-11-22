@@ -12,12 +12,12 @@ Objective: Revision of the construction of finite-state machine (FSM); modeling,
 Knowledge Points
 ----------------
 * Modeling FSM p213-221
-	- Moore Machine
-	- Mealy Machine
+	- `Moore Machine <http://marvalfan.top/lecture/chapter7.html#moore-machine>`_
+	- `Mealy Machine <http://marvalfan.top/lecture/chapter7.html#mealy-machine>`_
 * Sequential Statement
-	- case statement p112-116
-	- NULL statement p117
-* FSM with a Datapath (FSMD) p222
+	- case statement `p112-116 <http://marvalfan.top/lecture/chapter4.html#case-statement>`_
+	- NULL statement `p117 <http://marvalfan.top/lecture/chapter4.html#null-statement>`_
+* FSM with a Datapath (FSMD) `p222 <http://marvalfan.top/lecture/chapter7.html#an-fsm-with-a-datapath-fsmd>`_
 	- Algorithm State Machine (ASM) Chart p223-224
 	- Modeling FSMD, p225-230
 

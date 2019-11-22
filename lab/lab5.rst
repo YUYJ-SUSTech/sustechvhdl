@@ -19,11 +19,11 @@ Task 5: Design Multipliers (Week 7)
 
 Knowledge Points
 ----------------
-* Combinational Design, p167-169, p175-181
+* Combinational Design, `p167-169, p175-181 <http://marvalfan.top/lecture/chapter6.html#combinational-circuit>`_
 	- Array aggregate p178
-* Resource Sharing, p170-174
+* Resource Sharing, `p170-174 <http://marvalfan.top/lecture/chapter6.html#operator-sharing>`_
 	- Cost and Performance: size, delay, power consumption
-* FSMD Design (steps), p231-241
+* FSMD Design (steps), `p231-241 <http://marvalfan.top/lecture/chapter7.html#an-fsm-with-a-datapath-fsmd>`_
 	- Defining the input and output signals
 	- Converting the algorithm to an ASM chart
 	- Constructing the FSMD
@@ -32,7 +32,7 @@ Knowledge Points
 		* Derive the circuit for each group RT operation. 
 		* Add the necessary circuits to generate the status signals.
 	- VHDL descriptions of FSMD
-* Resource sharing via FSMD, p242-249 
+* Resource sharing via FSMD, `p242-249 <http://marvalfan.top/lecture/chapter7.html#an-fsm-with-a-datapath-fsmd>`_ 
 
 
 .. image:: ../_static/t5_2.png
