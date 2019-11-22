@@ -12,16 +12,16 @@ Task 2: Behavior Simulation of Process (Week 3)
 Knowledge Points
 ----------------
 * Data Object
-	- Variable, p47-48
+	- Variable, `p47-48 <http://marvalfan.top/lecture/chapter2.html#variable-data-objects>`_
 * Sequential VHDL
-	 - Process, p94-99
+	 - Process, `p94-99 <http://marvalfan.top/lecture/chapter4.html#the-process-construct>`_
 	 - Sequential Statements p100-104, p118-121 
-		* sequential signal assignment statement
-		* variable assignment statement
+		* `sequential signal assignment statement <http://marvalfan.top/lecture/chapter4.html#sequential-signal-assignment-statement>`_
+		* `variable assignment statement <http://marvalfan.top/lecture/chapter4.html#variable-assignment-statement>`_
 * Delay Model
-	- Delta delay model, p91-93
+	- Delta delay model, `p91-93 <http://marvalfan.top/lecture/chapter3.html#delta-delays>`_
 * Test Bench 
-	- p142-159
+	- `p142-159 <http://marvalfan.top/lecture/chapter5.html#modeling-a-test-bench>`_
 
 Example: Signal assignment with process
 ---------------------------------------
