@@ -23,10 +23,10 @@ Knowledge Points Revisited
 
 New
 ---
-* Parameterized Design `p250-268 <http://marvalfan.top/lecture/chapter8.html#>`_
-	- Generic constant `p252-258 <http://marvalfan.top/lecture/chapter8.html#generics>`_
-	- Array attribute `p259-261 <http://marvalfan.top/lecture/chapter8.html#array-attribute>`_
-	- Unconstrained array `p262-267 <http://marvalfan.top/lecture/chapter8.html#unconstrained-array>`_ 
+* Parameterized Design `p250-268 <http://sustechvhdl.readthedocs.io/lecture/chapter8.html#>`_
+	- Generic constant `p252-258 <http://sustechvhdl.readthedocs.io/lecture/chapter8.html#generics>`_
+	- Array attribute `p259-261 <http://sustechvhdl.readthedocs.io/lecture/chapter8.html#array-attribute>`_
+	- Unconstrained array `p262-267 <http://sustechvhdl.readthedocs.io/lecture/chapter8.html#unconstrained-array>`_ 
 
 Understand the 7-Seg LED Display
 --------------------------------

@@ -12,21 +12,21 @@ Task 1: Behavior Simulation of Full Adder (Week 2)
 Knowledge Points
 ----------------
 * Data Object
-	- Signal, `p41-46 <http://marvalfan.top/lecture/chapter2.html#signal-data-objects>`_
-	- Constant, `p49-50 <http://marvalfan.top/lecture/chapter2.html#constant-data-objects>`_
-* `Data Type <http://marvalfan.top/lecture/chapter2.html#data-types>`_
+	- Signal, `p41-46 <http://sustechvhdl.readthedocs.io/lecture/chapter2.html#signal-data-objects>`_
+	- Constant, `p49-50 <http://sustechvhdl.readthedocs.io/lecture/chapter2.html#constant-data-objects>`_
+* `Data Type <http://sustechvhdl.readthedocs.io/lecture/chapter2.html#data-types>`_
 	- bit, p51-53
 	- array, enumeration, p56-57
 	- std_logic, p58-60
-* Operators, `p61-65 <http://marvalfan.top/lecture/chapter2.html#operators>`_
+* Operators, `p61-65 <http://sustechvhdl.readthedocs.io/lecture/chapter2.html#operators>`_
 	- Logic Operators: and, or, nand, nor, xor, xnor, 
 	- Adding: +, -, & 
 * Concurrent Statements 
-	- simple concurrent signal assignment (CSA) statement, `p71-74 <http://marvalfan.top/lecture/chapter3.html#simple-csa>`_
+	- simple concurrent signal assignment (CSA) statement, `p71-74 <http://sustechvhdl.readthedocs.io/lecture/chapter3.html#simple-csa>`_
 * Delay Model
-	- Inertial delay model, `p86-88 <http://marvalfan.top/lecture/chapter3.html#understanding-delays>`_
+	- Inertial delay model, `p86-88 <http://sustechvhdl.readthedocs.io/lecture/chapter3.html#understanding-delays>`_
 * Test Bench 
-	- Self study Chapter 5.3, `p142-148 <http://marvalfan.top/lecture/chapter5.html#modeling-a-test-bench>`_
+	- Self study Chapter 5.3, `p142-148 <http://sustechvhdl.readthedocs.io/lecture/chapter5.html#modeling-a-test-bench>`_
 
 .. image:: ../_static/t1_2.png
     :align: center

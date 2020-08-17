@@ -14,15 +14,15 @@ Task 7 Stepper Motor (week 9)
 
 Knowledge Points Revisited
 --------------------------
-* `Hierarchy design and Structure Style Modeling <http://marvalfan.top/lecture/chapter5.html#>`_
-* `Two segment coding style <http://marvalfan.top/lecture/chapter6.html#id11>`_
-* `Combinational circuit design <http://marvalfan.top/lecture/chapter6.html#combinational-circuit>`_
+* `Hierarchy design and Structure Style Modeling <http://sustechvhdl.readthedocs.io/lecture/chapter5.html#>`_
+* `Two segment coding style <http://sustechvhdl.readthedocs.io/lecture/chapter6.html#id11>`_
+* `Combinational circuit design <http://sustechvhdl.readthedocs.io/lecture/chapter6.html#combinational-circuit>`_
 	- Decoder:
 		* 2-to-4 decoder 
-* `Sequential circuit design <http://marvalfan.top/lecture/chapter6.html#sequential-circuit>`_
+* `Sequential circuit design <http://sustechvhdl.readthedocs.io/lecture/chapter6.html#sequential-circuit>`_
 	- Counter
 	- Frequency divider
-* `Parameterized Design <http://marvalfan.top/lecture/chapter8.html#>`_
+* `Parameterized Design <http://sustechvhdl.readthedocs.io/lecture/chapter8.html#>`_
 	- Generic constant
 	- Array attribute
 	- Unconstrained array
