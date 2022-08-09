@@ -6,7 +6,7 @@ Associate Professor, Department of Electrical and Electronic Engineering
 
 Southern University of Science and Technology
 
-Office:  1005, Block A7, Nanshan iPark
+Office:  S236, South Tower, Engineering Building
 
 Phone: 8801 8557
 
